@@ -5,7 +5,7 @@ There is a timer for the session and you can see the transactions that have been
 
 Tools : HTML5, CSS3, JavaScript
 
-# Demo : https://abdallah-16.github.io/Bankist/
+# Demo : https://abdallah-16.github.io/Bankist-App/
 
 # Test
 1- User Name: js,
